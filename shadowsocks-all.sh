@@ -26,6 +26,7 @@ export PATH
 # @Akkariiin  <https://github.com/Akkariiin>
 # 
 # Intro:  https://teddysun.com/486.html
+#kengchina@163.com
 
 red='\033[0;31m'
 green='\033[0;32m'
